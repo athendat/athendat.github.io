@@ -1,0 +1,137 @@
+{
+  "configVersion": 1,
+  "timestamp": 1651334142831,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/51.fc4d81c4826f4d45.js",
+        "/index.html",
+        "/main.7f1f7a61d44fcb8f.js",
+        "/manifest.webmanifest",
+        "/polyfills.a7fead1fbefe3cbf.js",
+        "/runtime.6e9d0d8aeb9b511b.js",
+        "/scripts.d300bf144a278c80.js",
+        "/styles.b69c11909b5100f1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/data/message-categories.json",
+        "/assets/data/privacy.json",
+        "/assets/data/products.json",
+        "/assets/data/team.json",
+        "/assets/data/terms.json",
+        "/assets/fonts/san_francisco-webfont.woff",
+        "/assets/fonts/san_francisco-webfont.woff2",
+        "/assets/icons/pwa/android-icon-192x192.png",
+        "/assets/icons/pwa/apple-icon-114x114.png",
+        "/assets/icons/pwa/apple-icon-120x120.png",
+        "/assets/icons/pwa/apple-icon-144x144.png",
+        "/assets/icons/pwa/apple-icon-152x152.png",
+        "/assets/icons/pwa/apple-icon-180x180.png",
+        "/assets/icons/pwa/apple-icon-57x57.png",
+        "/assets/icons/pwa/apple-icon-60x60.png",
+        "/assets/icons/pwa/apple-icon-72x72.png",
+        "/assets/icons/pwa/apple-icon-76x76.png",
+        "/assets/icons/pwa/favicon-16x16.png",
+        "/assets/icons/pwa/favicon-32x32.png",
+        "/assets/icons/pwa/favicon-96x96.png",
+        "/assets/images/contact/contact.svg",
+        "/assets/images/contact/location.svg",
+        "/assets/images/logo/imagotipo.png",
+        "/assets/images/logo/imagotipo.svg",
+        "/assets/images/logo/imagotipob.svg",
+        "/assets/images/logo/isotipo.png",
+        "/assets/images/logo/isotipo.svg",
+        "/assets/images/logo/isotipob.svg",
+        "/assets/images/logo/logo-main.png",
+        "/assets/images/payment/complete-payment.svg",
+        "/assets/images/payment/completed.svg",
+        "/assets/images/payment/enzona.png",
+        "/assets/images/payment/qvapay.png",
+        "/assets/images/products/athgro-admin.png",
+        "/assets/images/products/logo-athgro.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/51.fc4d81c4826f4d45.js": "788251580d7791b32a81fc50efd4adc1d544966b",
+    "/assets/data/message-categories.json": "edbf7b4d3a80204c78fed2878a1ca53e9a215b25",
+    "/assets/data/privacy.json": "d7747c8e850903a59794bc446852db85f769cbd4",
+    "/assets/data/products.json": "e797a423783b9eb59a1e12f5075881afab776977",
+    "/assets/data/team.json": "d59e722f93f1258f3b037e7c67db995e183a4985",
+    "/assets/data/terms.json": "772684fddf32de43fd7a264fe9d8bb31c2552425",
+    "/assets/fonts/san_francisco-webfont.woff": "fb86faf7428eb17673da4253013889f65e9c0b17",
+    "/assets/fonts/san_francisco-webfont.woff2": "dcd78761fa223b11f413b72a4f85ab9044cbbb0f",
+    "/assets/icons/pwa/android-icon-192x192.png": "3a12e95c2fd7bfbaab59840652e345920919a608",
+    "/assets/icons/pwa/apple-icon-114x114.png": "aa3330e6278f9cc798d1509226e6596cf7552589",
+    "/assets/icons/pwa/apple-icon-120x120.png": "1124328c3f58439afed24ec6e3027cae50d4f8cf",
+    "/assets/icons/pwa/apple-icon-144x144.png": "20bec85607d3fdcfe0cceb89e52d950af874908b",
+    "/assets/icons/pwa/apple-icon-152x152.png": "d606bbcb9d6e35eb88520e0cc98b675490479a4c",
+    "/assets/icons/pwa/apple-icon-180x180.png": "c9ad983e337b1c45c57d494cc8de198f93350b62",
+    "/assets/icons/pwa/apple-icon-57x57.png": "d70b8b71fc6b937d08ef40ef1e23dc4fd2980b31",
+    "/assets/icons/pwa/apple-icon-60x60.png": "e0748938f4312b7dbf74c30879cf34f94c19f386",
+    "/assets/icons/pwa/apple-icon-72x72.png": "d9d932dc53a6e3a2b2d15c966355c07ce5c684fe",
+    "/assets/icons/pwa/apple-icon-76x76.png": "a42ea3136920d76f4ae7ead8b87cfef6e6b32206",
+    "/assets/icons/pwa/favicon-16x16.png": "3c27821916cfb6ed810c2fa981e8981273eda7ad",
+    "/assets/icons/pwa/favicon-32x32.png": "f1a051e4224eebd05cb19e622b7eeed5fe025cfc",
+    "/assets/icons/pwa/favicon-96x96.png": "6aad8c70db07fffe5035c13ee9e6a7762a5fc009",
+    "/assets/images/contact/contact.svg": "0a376dc9d7c1b3e7a4e70cfdc077d365570016a6",
+    "/assets/images/contact/location.svg": "29e4e62c1247e2bf7ccc0613c757d6855e4752b7",
+    "/assets/images/logo/imagotipo.png": "28adea441628e123cabc19ab2a8a66295b75dcbc",
+    "/assets/images/logo/imagotipo.svg": "75db8d944f0004e7fbb67035c5c1ab60160bae39",
+    "/assets/images/logo/imagotipob.svg": "399dc6b9ed4646cc751f6909bfce0a8806435b97",
+    "/assets/images/logo/isotipo.png": "8aee93f57d4b609aa59c2b0027ce7d760b54e9d3",
+    "/assets/images/logo/isotipo.svg": "4a3f93a102dcb296f548571840a904f81c512e5f",
+    "/assets/images/logo/isotipob.svg": "5e5c16b3a4dd599807dcd379ce4dbb9ab6c5a886",
+    "/assets/images/logo/logo-main.png": "8a1cced786031d7f0adc5bfc653d10f937fe707c",
+    "/assets/images/payment/complete-payment.svg": "302ed4396e9dd6c3599fafd33e84a3d48d2ad4a8",
+    "/assets/images/payment/completed.svg": "e74e4a08bbd1e93e9b2beaab2c555d39d732f24f",
+    "/assets/images/payment/enzona.png": "96784a53ba059b15846274b02afd92e1531e4a91",
+    "/assets/images/payment/qvapay.png": "b9e43108d4f76ba758269243e1cef489f999e597",
+    "/assets/images/products/athgro-admin.png": "8986cd7cc1f2e31e679f69e7505c4ce3274e631e",
+    "/assets/images/products/logo-athgro.svg": "a067aef9a4fc9baca8c3f0bf1b925aa53d2c2432",
+    "/index.html": "41646ea0ec83c541203c21ee0f891adc60532d95",
+    "/main.7f1f7a61d44fcb8f.js": "983fef5d9e7d913709faf779930d74c9a490b596",
+    "/manifest.webmanifest": "2b4a97c68f113243146863dacd59a1b0e919c53a",
+    "/polyfills.a7fead1fbefe3cbf.js": "d7fb0ed32638e0011b51771a8013c15f22ddef80",
+    "/runtime.6e9d0d8aeb9b511b.js": "da07fa6271baf6300aa734d1f39af256f4436339",
+    "/scripts.d300bf144a278c80.js": "3337157d4f5be3bba1ba9987a43c42d701d40961",
+    "/styles.b69c11909b5100f1.css": "2e76b9bbcb8e6a84eae496b822ec1d50995f6313"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
